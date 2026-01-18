@@ -20,6 +20,7 @@ Establish a national standardization framework for engineering documentation, pr
 NERSP is built to be scalable, secure, and interoperable — supporting long‑term national workforce development and engineering excellence.
 
 🏗️ Architecture Overview
+
 NERSP adopts a modular, microservices‑driven architecture to ensure flexibility, resilience, and ease of integration with external systems.
 
 Core architectural principles
@@ -51,9 +52,11 @@ Observability Stack – Logging, metrics, and distributed tracing
 CI/CD Pipeline – Automated build, test, and deployment workflows
 
 🧩 Microservices List
+
 NERSP is composed of domain‑specific microservices that operate independently but integrate seamlessly.
 
 Service	Description
+
 Identity & Access Service	Authentication, authorization, RBAC, identity lifecycle
 Engineer Records Service	Professional profiles, qualifications, certifications, CPD logs
 Verification Service	Credential verification, document validation, digital signatures
@@ -66,7 +69,9 @@ Notification Service	Email, SMS, and in‑platform alerts
 Analytics & Reporting Service	Dashboards, insights, compliance analytics
 Payments & Licensing Service	Membership fees, renewals, licensing workflows
 Admin Console Service	System configuration, user management, platform governance
+
 🛠️ Tech Stack
+
 Frontend
 React / Next.js
 
@@ -122,6 +127,7 @@ GitHub Actions
 Azure DevOps Pipelines
 
 🗺️ Roadmap
+
 Phase 1 – Foundation (0–3 months)
 Core architecture setup
 
@@ -159,6 +165,7 @@ Multi‑language support
 Partner ecosystem onboarding
 
 🤝 Contribution Guidelines
+
 NERSP welcomes contributions from engineers, developers, researchers, and regulatory experts.
 
 How to contribute
